@@ -27,6 +27,8 @@ public class FirstClass {
 		
 		System.out.println("Hi");
 		System.out.println("Hello World");
+		System.out.println("Hello");
+		System.out.println("Hell");
 		//System.out.println(a);
 
 	}
